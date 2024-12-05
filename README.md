@@ -31,7 +31,6 @@ Social Media App là một nền tảng mạng xã hội hiện đại, cung c�
 
 - **Hệ thống thông báo**:
   - Hiển thị thông báo về lượt thích, bình luận và người theo dõi mới.
-  - Vuốt để xóa thông báo.
 
 - **Chế độ tối (Dark Mode)**.
 
@@ -41,7 +40,6 @@ Social Media App là một nền tảng mạng xã hội hiện đại, cung c�
 - **Flutter**: Phát triển giao diện người dùng đa nền tảng.
 - **Firestore**: Lưu trữ dữ liệu người dùng và bài viết.
 - **Provider**: Quản lý trạng thái ứng dụng.
-- **Appwrite Storage**: Lưu trữ ảnh đại diện, bài viết và trạng thái.
 
 ---
 
@@ -50,8 +48,6 @@ Social Media App là một nền tảng mạng xã hội hiện đại, cung c�
 1. Gọi video thời gian thực (Video Calling).
 2. Video ngắn (Reels) với hiệu ứng và âm nhạc.
 3. Gửi và đăng tải video với độ phân giải cao.
-4. Tích hợp quảng cáo để tăng doanh thu.
-5. Đề xuất bạn bè và nội dung dựa trên sở thích.
 
 ## 💻 Hướng dẫn cài đặt
 1. **Clone dự án**:
