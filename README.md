@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/image/logo.png" alt="Logo" width="200">
+  <img src="assets/images/logo.png" alt="Logo" width="200">
 </p>
 
 # Social Media App
@@ -58,7 +58,7 @@ Social Media App là một nền tảng mạng xã hội hiện đại, cung c�
    ```bash
    git clone https://github.com/your-username/social-media-app.git
    cd social-media-app
-Cài đặt phụ thuộc và chạy ứng dụng:
-```bash
+2. **Cài đặt phụ thuộc và chạy ứng dụng***:
+  ```bash
   flutter pub get
   flutter run
